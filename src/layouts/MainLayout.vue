@@ -10,7 +10,7 @@
         <div class="text-subtitle1">{{ todaysDate }}</div>
       </div>
       <q-img
-      src="\images\mountain.jpg"
+      img src="\images\mountain.jpg"
       class="header-image absolute-top"/>
     </q-header>
 
